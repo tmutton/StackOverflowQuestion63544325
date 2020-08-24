@@ -1,0 +1,10 @@
+C:\Code\JsonSolution\JsonSolution\obj\Debug\JsonSolution.csprojAssemblyReference.cache
+C:\Code\JsonSolution\JsonSolution\obj\Debug\JsonSolution.csproj.CoreCompileInputs.cache
+C:\Code\JsonSolution\JsonSolution\bin\Debug\JsonSolution.exe.config
+C:\Code\JsonSolution\JsonSolution\bin\Debug\JsonSolution.exe
+C:\Code\JsonSolution\JsonSolution\bin\Debug\JsonSolution.pdb
+C:\Code\JsonSolution\JsonSolution\bin\Debug\Newtonsoft.Json.dll
+C:\Code\JsonSolution\JsonSolution\bin\Debug\Newtonsoft.Json.xml
+C:\Code\JsonSolution\JsonSolution\obj\Debug\JsonSolution.csproj.CopyComplete
+C:\Code\JsonSolution\JsonSolution\obj\Debug\JsonSolution.exe
+C:\Code\JsonSolution\JsonSolution\obj\Debug\JsonSolution.pdb
